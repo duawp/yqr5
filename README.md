@@ -1,6 +1,6 @@
 ## DUAWP ✌️
 
-**'Edging'**
+**'MIT Cybersecurity researcher'**
 
 I am a versatile software developer with expertise in Python, C++, and JavaScript. With a strong foundation in these programming languages, I excel at creating efficient, robust, and scalable solutions across various platforms. My ability to work across different programming paradigms enables me to tackle complex problems, whether it’s developing backend systems, building interactive web applications, or crafting performance-critical software.
 Key Skills:
@@ -18,10 +18,17 @@ I am dedicated to continuous learning and staying up-to-date with the latest tec
     <a href="https://www.youtube.com/c/fknight">
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WhjPDvbE60328n17Cgf7g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
     </a>
-    <a href="https://github.com/ForrestKnight?tab=followers">
+    <a href="https://github.com/yqr5?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&label=1155b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
     </a>
     <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=5596c6&style=for-the-badge&labelColor=488207&logo=star" />
     </a>
 </p>
+
+
+###Languages and Tools
+<img align="left" alt "C++" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+             
+          
+          
